@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Compile Java Source",
+			"command": "javac -d chatapp/bin chatapp/src/chatapp/server.java chatapp/src/chatapp/client.java chatapp/src/chatapp/CryptoUtils.java",
+			"group": "build",
+			"problemMatcher": [
+				"$javac"
+			]
+		}
+	]
+}
