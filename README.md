@@ -1,3 +1,4 @@
+This is version 2 of java chatting application. Future versions might come.
 # Java Chat Application
 
 ## Overview
